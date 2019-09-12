@@ -1,0 +1,4 @@
+Name of product - Carrot Product's weight - 300.0 Product's calories - 45.0
+Name of product - Potato Product's weight - 200.0 Product's calories - 100.0
+Name of product - Potato Product's weight - 100.0 Product's calories - 200.0
+Name of product - Potato Product's weight - 100.0 Product's calories - 200.0

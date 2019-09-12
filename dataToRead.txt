@@ -1,0 +1,3 @@
+Name of product - Cucumber Product's weight - 300.0 Product's calories - 15.0
+Name of product - Pumpkin Product's weight - 500.0 Product's calories - 35.0
+Name of product - Salad Product's weight - 200.0 Product's calories - 10.0
