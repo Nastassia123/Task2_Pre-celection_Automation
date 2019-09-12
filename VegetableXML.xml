@@ -1,0 +1,16 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<vegetables>
+    <vegetable>
+        <idvegetable>1</idvegetable>
+        <weight>34</weight>
+        <name>Red Prince</name>
+        <calories>67</calories>
+    </vegetable>
+    <vegetable>
+        <idvegetable>2</idvegetable>
+        <weight>35</weight>
+        <name>Cherry</name>
+        <calories>100</calories>
+    </vegetable>
+</vegetables>
+
